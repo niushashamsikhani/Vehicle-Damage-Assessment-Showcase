@@ -57,12 +57,6 @@ A computer-vision model trained on proprietary data from the partner company is 
 - **AI:** multimodal LLM · computer-vision damage detection (in development)
 - **Deployment:** Docker
 
-## Planned
-
-- Integration of the computer-vision model into the assessment pipeline
-- Server-side AI orchestration with an asynchronous job queue
-- Object storage for evidence media
-
 ## My role
 
 I designed and developed the entire platform: system architecture, data model, REST API, web application, the multimodal AI pipeline and the reporting workflow. I am also developing the computer-vision component.
