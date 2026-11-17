@@ -54,7 +54,7 @@ A computer-vision model trained on proprietary data from the partner company is 
 - **Frontend:** React · TypeScript · Vite
 - **Backend:** Python · Flask · SQLAlchemy · Flask-JWT-Extended · REST API
 - **Database:** PostgreSQL
-- **AI:** multimodal LLM (Gemini 2.5) · computer-vision damage detection (in development)
+- **AI:** multimodal LLM · computer-vision damage detection (in development)
 - **Deployment:** Docker
 
 ## Planned
